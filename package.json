@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Yakoloi/bamazon#readme",
   "dependencies": {
+    "easy-table": "^1.1.0",
     "inquirer": "^3.2.3",
     "mysql": "^2.14.1"
   }
